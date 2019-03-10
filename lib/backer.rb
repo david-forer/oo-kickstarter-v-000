@@ -7,7 +7,7 @@ class Backer
   end 
   
   def project 
-    
+    backed_projects << self
   end
   
 end
